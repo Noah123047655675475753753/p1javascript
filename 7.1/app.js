@@ -1,6 +1,6 @@
 let budget = 100;
 
-let product = 180;
+let product = prompt();
 let h1 = document.getElementById("uitkomst");
 
 if (budget > product){
