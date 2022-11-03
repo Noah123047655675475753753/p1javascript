@@ -1,6 +1,6 @@
 let budget = 100;
 
-let product = prompt();
+let product = prompt("hoeveel kost het product");
 let h1 = document.getElementById("uitkomst");
 
 if (budget > product){
